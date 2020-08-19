@@ -36,7 +36,7 @@ permalink: /key/
 | C9 | }BiKj4Df/ct}%;-cIM:N$jAzpLd((Y      |    first day of work in MAD  |
 | D1      | 6cig<p3<n^MAQF{EVj-!#SuFCxVvSE | tio bday |
 | D2      | :o]8Cgk_-T3=6EnKv-/4Bsp,}!8j'{      |   mom bday |
-| D3      | DlJ,v+E@0qKxe!!scJ$-Mfl.3ul;5f     |    $1 |
+| D3      | DlJ,v+E@0qKxe!!scJ$-Mfl.3ul;5f     |    wedding |
 | D4      | C3{2G25Fd:i-e82-j8d0B:XgZMplvd | tammy bday |
 | D5      | nvHb0_:.$T0dR^D2,XZf;4!#%GtDT(      |  primer dia empadronamiento |
 | D6 | 83Sj?=46@9c!-])ln%V@X;Qd:r&Y3e     |    suegra bday |
