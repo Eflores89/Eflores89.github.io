@@ -46,8 +46,8 @@ considerar que deberán encontrarse para entregar el paquete. Si no van a la mis
 Hay muchas formas de enviar dinero, unas más caras o fáciles que otras. Aquí enumero varias.
 
 1. **Tarjeta de Regalo Amazon:** La más fácil sin duda. Entra a www.amazon.es y busca "tarjeta de regalo". Te saldrán muchas opciones para comprar una tarjeta de regalo. Simplemente compra una por el monto que quieras y enviala al correo de la persona que quieras que reciba el dinero. Pagas con tu tarjeta mexicana. El tipo de cambio será el aplicado por tu banco pero no hay comissiones por nada y es instantaneo. Lo único malo es que tu conocido tendrá que gastar solamente en Amazon este dinero, pregunta antes si están bien con recibir el dinero ahí.
-2. **Transferwise:**
-3. **Bancos tradicionales:**
+2. **Transferwise:** Debes darte de alta en transferwise.com, creas una cuenta, te registras y puedes mandar dinero con un costo muy bajo. Necesitarás el IBAN de la persona que recibe el dinero en Europa y tu CLABE para darte de alta. Normalmente se tardan entre 4-5 días los envios.
+3. **Bancos tradicionales:** Esto es un martirio según nuestra experiencia.
 4. **Bitcoin:**
 
 
