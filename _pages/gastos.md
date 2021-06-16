@@ -6,6 +6,8 @@ permalink: /gastos/
 ---
 
 
-<p><a href="https://numbersmart.shinyapps.io/persfin/">Ver resultados</a></p>
 
-<iframe id="test" src="https://numbersmart.shinyapps.io/persfin2" style="border: none; width: 100%; height: 700px" frameborder="0"></iframe>
+
+<iframe id="spend_form" src="https://chilipepper.io/form/xhot-darkyellow-jalapenos-e343b0d2-61da-4dfc-94fb-4fe55bc3b903" style="border: none; width: 100%; height: 700px" frameborder="0"></iframe>
+
+
