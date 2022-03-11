@@ -1,4 +1,4 @@
----           
+---
 layout: post
 title: "Mi Baja de Paternidad"
 permalink: /c/baja-paternidad/
