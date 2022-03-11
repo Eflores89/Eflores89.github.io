@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Mi Baja de Paternidad"
-permalink: /c/baja-paternidad/
-description: "Los beneficios son tan evidentes para la sociedad que vale mucho la pena dejar de estigmatizar a la baja de paternidad como "vacaciones"."
+permalink: "/c/baja-paternidad/"
 ---
 
 Este Diciembre, oficialmente empece mi periodo “largo” de baja de paternidad (aprox. 14 semanas, incluyendo mis vacaciones). 
