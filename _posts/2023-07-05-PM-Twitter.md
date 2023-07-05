@@ -63,7 +63,7 @@ However, a less obvious issue is that it diminishes some of the distinctive char
 
 It’s arguable that mass edit’s make the product more like Instagram, where posts are polished, filtered and thought-out in detail. If that is where you want to take the product, that is fine (instagram is very profitable), but you do need to accept that it’s not unique anymore. 
 
-A product that looks and feels like other social media sites is a big problem if you’re selling ads if you have a sub-scale network. Reddit has understood this perfectly. It just *feels* different to be on Reddit and that attracts advertisers even if the amount of users is substantially lower.
+A product that looks and feels like other social media sites is a big problem if you’re selling ads and you have a sub-scale network. Reddit has understood this perfectly. It just *feels* different to be on Reddit and that attracts advertisers, even if the amount of users is substantially lower.
 
 
 When I try to explain to my mom what I do as a Product Manager, it can go either of two ways: she ends up more confused or she says “so, you coordinate stuff?”. It’s not just her. For example, the amount of LinkedIn requests from “normal” (non-tech) companies nudging me to interview in a completely unrelated position, such as procurement (e.g., “you manage the purchase of products, no?”) is staggering. 
