@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Twitter's Product Management Woes"
+title: "Twitter's PM Woes"
 permalink: "/product-musings/twitters-PM-Woes/"
 ---
 It’s been a few months now since Elon Musk took Twitter private, in a much-hyped, mesmerizing, fashion. I think it’s time we take a good look at the disaster this has been. 
@@ -66,10 +66,10 @@ It’s arguable that mass edit’s make the product more like Instagram, where p
 A product that looks and feels like other social media sites is a big problem if you’re selling ads if you have a sub-scale network. Reddit has understood this perfectly. It just *feels* different to be on Reddit and that attracts advertisers even if the amount of users is substantially lower.
 
 
-When I try to explain to my mom what I do for a living as a Product Manager, it can go either of two ways: she ends up more confused or she says “so, you coordinate stuff?”. It’s not just her. For example, the amount of LinkedIn requests from “normal” (non-tech) companies nudging me to interview in a completely unrelated position, such as procurement (e.g., “you manage the purchase of products, no?”) is staggering. 
+When I try to explain to my mom what I do as a Product Manager, it can go either of two ways: she ends up more confused or she says “so, you coordinate stuff?”. It’s not just her. For example, the amount of LinkedIn requests from “normal” (non-tech) companies nudging me to interview in a completely unrelated position, such as procurement (e.g., “you manage the purchase of products, no?”) is staggering. 
 
-That the world has no idea what a Product Manager makes sense. Only a handful of companies really need professionals to think thru product experiences. Let’s be honest: the founder of a startup can do product and for companies where technology is not the actual product, UX designers and engineers are a good proxy. 
+That the world has no idea what a Product Manager does makes sense. Only a handful of companies really need professionals to think thru product experiences. Let’s be honest: the founder of a startup can do product and for companies where technology is not the actual product, UX designers and engineers are a good proxy. 
 
 However, it turns out Twitter is one of those rare companies where Product Managers, for all the blame we take on slowing things down, could have averted some disasters. 
 
-I guess Musk’s confusion was similar to my moms when he fired troves of PMs as he took over the company, but it seems kind of a bad idea at this point…
+I guess Musk’s confusion was similar to my moms when he fired troves of PMs as he took over the company, but in hindsight, it seems kind of a bad idea…
