@@ -16,7 +16,7 @@ But more importantly, checkmarks were coveted by narcissists because they were r
 
 Musk’s idea was to try to capture this value by actually charging for it. The problem is that it’s value is derived from scarcity. As soon as the floodgate is opened, it’s value drops drastically. 
 
-Some mid-tier product manager with would have argued that it’s actually better to do nothing with the checkmark. You could get creative around the edges, *maybe* with a new, lower-tier of badging such as a blue circle in your profile picture - earned after verifying your account with an ID. But this second-tier would obviously be less scarce and valuable. It would not detract from the checkmark’s value and would even have the side effect of decreasing anonymity, in theory increasing civil discourse (we would need to carefully test this assumption). 
+Some mid-tier product manager would have argued that it’s actually better to do nothing with the checkmark. You could get creative around the edges, *maybe* with a new, lower-tier of badging such as a blue circle in your profile picture - earned after verifying your account with an ID. But this second-tier would obviously be less scarce and valuable. It would not detract from the checkmark’s value and would even have the side effect of decreasing anonymity, in theory increasing civil discourse (we would need to carefully test this assumption). 
 
 Not having a well thought-out roadmap for the checkmark meant improvisation. Today there is a gold, silver and blue checkmark, which adds confusion and clutter. It also means that the value of a checkmark is now negligible. 
 
