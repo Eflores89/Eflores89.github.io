@@ -15,7 +15,7 @@ Despite being cast by online critics as a critique/love letter of the film indus
 
 On it’s face, yes, it’s about Hollywood. The graphic drama teases out the transition from a debauchery-ridden, almost circus-like, film industry - exemplified by a full 40 minutes of mansion parties and drugs - to the glamorous, artistic art it continues to aspire to be. 
 
-There’s definitely an opinion on the role that technical innovations play in our lives (maybe a slight dig at AI), as the transformation from silent films to “talkies” leaves a victims in it’s path. However, “Babylon” makes it clear that the real tectonic shift occurs in the collective mindset of the audiences, industry and artists. 
+There’s definitely an opinion on the role that technical innovations play in our lives (maybe a slight dig at AI), as the transformation from silent films to “talkies” leaves victims in it’s path. However, “Babylon” makes it clear that the real tectonic shift occurs in the collective mindset of the audiences, industry and artists. 
 
 It’s also obvious that blaming the Hollywood industrial machine is a part of the films intention. Just follow the fate of the main characters, such as Jack Conrad (Brad Pitt), who realizes he cannot adapt his acting style to sound and kills himself or Nellie LaRoy (Margot Robbie), who is suddenly too vulgar for the big screen and laughed at by the "big wigs". 
 
