@@ -39,7 +39,7 @@ None of the characters had a functioning family (I quickly lost count of Jack’
 
 Asymmetry in their greatness - a necessary condition for greatness in anything, we are meant to believe - is ultimately their undoing. Jack’s life ends when he cannot be at the top, Manny’s idea of love leads him to exile, Nellie -the eternal optimist- dances to her death and Sydney loses it all, caught-up in a child-like innocence that led him to believe his hard-work alone would end oppression and racism. 
 
-Consider the supporting characters, each mirroring one of our heroes, that allows us to contrast their actions with another, more “balanced, world view. 
+Consider the supporting characters, each mirroring one of our heroes, that allows us to contrast their actions with another, more "balanced", world view. 
 
 Don Wallach harbors no false hope in his current stars - he knows he needs to adapt and quickly let’s Jack loose. In contrast Manny tries to mold a “new and improved” Nellie LaRoy. 
 
@@ -49,4 +49,4 @@ Lady Fay Zhu works multiple jobs, which allows her to move to Europe after being
 
 And finally Elinor, the cockroach that she is, survived the transition to “talkies” because she faced the truth head-on. She had no pretention that she needed to be the best. By the time we arrive, the world had bent her into balance and mediocrity (she says during a scene: “I knew Proust, you know”). Jack, with no other thing in his life, prefers to die than to live as a second-best. 
 
-Sure, I might be over-analyzing the movie (in the end, Hollywood is obsessed with itself, and it’s completely possible that Babylon is truly only about the victimization of actors), but I can't help it that I still had a crucial question in my mind after the drawn-out final scene: is greatness in a craft, actually incompatible with any kind of balance?
+Sure, I might be over-analyzing the movie (in the end, Hollywood is obsessed with itself, and it’s entirely possible that Babylon is really only about the victimization of actors), but I can't help it that I still had a crucial question in my mind after the drawn-out final scene: is greatness in a craft, actually incompatible with any kind of balance?
