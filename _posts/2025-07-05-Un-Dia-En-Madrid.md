@@ -62,7 +62,7 @@ Todo en México y Estados Unidos está optimizado para la comodidad individual. 
 
 Si tienes suficiente, puedes tener hijos sin cambiar un solo pañal, comer lo que quieras y a la hora que quieras (en España, muchos lugares cierran cocina en la tarde) y evitar lidiar con problemas. La seguridad, educación y salud son un producto. Más dinero: mejor resultado.
 
-El efecto psicológico de esta organización en la sociedad es difícil de describir, pero obvio: tu valor como padre se reduce a cuánto dinero haces. porque más dinero es mejor todo.
+El efecto psicológico de esta organización en la sociedad es difícil de describir, pero obvio: tu valor como padre se reduce a cuánto dinero haces. Porque más dinero, es mejor todo.
 
 Esto no es decir que España no tiene colegios privados (Elena va ir a uno) o que a nadie le importa "con quién te juntas". Obviamente, como en cualquier sociedad, el dinero importa.
 
