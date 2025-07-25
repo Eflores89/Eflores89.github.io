@@ -46,7 +46,7 @@ Tras unos minutos, mi hija se aburrió de la bici porque se encontró a Eugenia,
 
 El día sigue joven. En la tarde vamos a una alberca con una pareja de amigos que tienen una hija de la edad de Elena. Vamos a hacer hamburguesas (es 4 de Julio y ella es Americana).
 
-Siempre sentí que Monterrey me abrumaba un poco pero especialmente desde "la inseguridad", cuando se volvió complicado hacer cualquier cosa fuera de casa. De joven, soñaba con hacer más dinero y vivir más "internacionalmente". Siendo del norte de México, lo lógico era Estados Unidos.
+Siempre sentí que Monterrey me abrumaba un poco, y especialmente desde "la inseguridad", cuando se volvió complicado hacer cualquier cosa fuera de casa. De joven, soñaba con hacer más dinero y vivir más "internacionalmente". Siendo del norte de México, lo lógico era Estados Unidos.
 
 Hice un intercambio de 6 meses en Washington D.C., y regresé con cariño hacia el país. Algo te atrae del vecino del norte y casi siempre se puede reducir a dinero y comodidad.
 
