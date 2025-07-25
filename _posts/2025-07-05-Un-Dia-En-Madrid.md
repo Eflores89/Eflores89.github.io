@@ -54,7 +54,7 @@ Mi sorpresa fue hacer el MBA en España. Financieramente, y por nuestras carrera
 
 España no es para todos. Obviamente sacrificamos cosas importantes. Nuestra familia está lejos, vivimos en un departamento de 130 metros (no una casa de 300) y con nuestras carreras ganaríamos más y llegaríamos más lejos en Estados Unidos. 
 
-No todos los días son caminar y tomar café sin preocupaciones. No todos los días estamos sin trabajar. Y España tiene su par de problemas con la inseguridad, aunque mucho menos organizada.
+No todos los días son caminar y tomar café sin preocupaciones. No todos los días estamos sin trabajar. Y España tiene su par de problemas.
 
 Pero 8 años aquí te moldea la forma de ver las cosas. Decidir que te gusta vivir aquí requiere un cambio de mentalidad importante.
 
@@ -62,14 +62,14 @@ Todo en México y Estados Unidos está optimizado para la comodidad individual. 
 
 Si tienes suficiente, puedes tener hijos sin cambiar un solo pañal, comer lo que quieras y a la hora que quieras (en España, muchos lugares cierran cocina en la tarde) y evitar lidiar con problemas. La seguridad, educación y salud son un producto. Más dinero: mejor resultado.
 
-El efecto psicológico de esta organización en la sociedad es difícil de describir, pero obvio: tu valor como padre se reduce a cuánto dinero haces. Porque más dinero, es mejor todo.
+El efecto psicológico de esta organización en la sociedad es difícil de describir, pero obvio: tu valor como padre se reduce a cuánto dinero haces. Porque más dinero, mejora todo para tu familia.
 
-Esto no es decir que España no tiene colegios privados (Elena va ir a uno) o que a nadie le importa "con quién te juntas". Obviamente, como en cualquier sociedad, el dinero importa.
+Esto no es decir que España no tiene colegios privados (Elena va ir a uno) o que a nadie le importa el dinero. Como en cualquier sociedad, importa.
 
-Pero todos los sistemas con los que convives en tu día a día no son hechos para el cliente. Tienden a ser sistemas colectivos, en donde se está optimizando el bien de la *mayor* cantidad de gente primero, por encima de lo que "el cliente" quiera.
+Pero todos los sistemas con los que convives en tu día a día no son hechos para el consumidor. Tienden a ser sistemas colectivos, en donde se está optimizando el bien de la *mayor* cantidad de gente (aunque sean clientes) primero, por encima de lo que el mayor postor quiera.
 
-Se espera que uses las banquetas y los servicios públicos. Y porque se pagan más impuestos, se espera también que se reflejen. La gran mayoría de las personas, sin importar su clase social, usan transporte público al menos en algunas ocasiones de la semana simplemente por que la ciudad se hizo para la mayoría, no para el que tiene el coche. 
+Se espera que uses las banquetas y los servicios públicos. Y porque se pagan más impuestos, se espera también que se reflejen. Por ejemplo, la gran mayoría de las personas, sin importar su clase social, usan transporte público al menos en algunas ocasiones de la semana, simplemente por que la ciudad se hizo para la mayoría, no para el que puede tener coche. Sucede lo mismo con deportes, pues te puedes apoyar en piscinas municipales, parques. Y ni se diga la salud.
 
-España no está hecho para *tu* comodidad, esta hecha para la comodidad de *todos* primero. 
+España no está hecho para *tu* comodidad, esta hecha para la conviviencia de la *mayoria*. 
 
-Viniendo de México, esto a veces es difícil de entender, pero por ello puedo tener los días como el que tuve hoy.
+Viniendo de México, esto a veces es difícil de entender. Pero por ello, puedo tener los días como el que tuve hoy.
